@@ -1,0 +1,11 @@
+# From http://docs.projects.genivi.org/gdp_files/v9/
+# See https://at.projects.genivi.org/wiki/x/64Kw
+#
+52c95b56fa4feb25e1022db94db9c931  genivi-demo-platform-qemux86-64.rootfs.ext4.gz
+eae4dadeb312083bee6b5fa0f0820b8f  bzImage
+3d8ced8f700351b85491d961d85bf722  genivi-demo-platform-qemux86-64.rootfs.manifest
+d177c85e38587a5c99a58d16f5605e24  license.manifest
+4a2395ca47fcc49339ce76d6abc4d061  licenses.tar.gz
+064f240e35c64e33ac51955c183d5660  oe-source.tar.gz
+01e0fa237714fa270ead187cf21598e0  sources.tar.gz
+# EOF

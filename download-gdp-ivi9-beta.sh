@@ -19,7 +19,18 @@ while IFS='' read -r line || [[ -n "$line" ]]; do
         wget ${REMOTEDIR}/$f
     fi
 done < ${FILELIST}
+
 echo "INFO: Verifying MD5SUMs in ${FILELIST}"
 md5sum -c ${FILELIST}
+
+echo "INFO: Listing downloaded files"
+fl=""
+while IFS='' read -r line || [[ -n "$line" ]]; do
+    # echo DEBUG: line=$line
+    [[ $line = \#* ]] && continue
+    f=$(echo $line | cut -d' ' -f2)
+    fl="${fl} ${f}"
+done < ${FILELIST}
+ls -l $fl
 
 # EOF

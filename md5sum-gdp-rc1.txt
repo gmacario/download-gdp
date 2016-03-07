@@ -1,0 +1,11 @@
+# From http://docs.projects.genivi.org/gdp_files/v9-rc1/
+# See https://at.projects.genivi.org/wiki/x/64Kw
+#
+e66d77a7d6c9f039834a0e6484d8b994  gdp-ivi9-rc1.rootfs.ext4.gz
+af80b7e667eb7875eded67e45a34718d  gdp-ivi9-rc1.bzImage
+df80a46ef280cc0111b8c89bc63a18b3  gdp-ivi9-rc1.rootfs.manifest
+727a23c859a77b280da134ba57b1d41c  license.manifest
+e306646555746c3d33a5e8ee428b9cd8  licenses.tar.gz
+e38e4c5fd3a7a25c8006b981f033f810  oe-source.tar.gz
+0a4bdf3ff92d529b90ce3228c89f6d60  sources.tar.gz
+# EOF

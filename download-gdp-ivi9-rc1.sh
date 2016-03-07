@@ -4,7 +4,7 @@
 # set -x
 set -e
 
-REMOTEDIR=http://docs.projects.genivi.org/gdp_files/v9
+REMOTEDIR=http://docs.projects.genivi.org/gdp_files/v9-rc1/
 FILELIST=md5sum-gdp-rc1.txt
 
 while IFS='' read -r line || [[ -n "$line" ]]; do

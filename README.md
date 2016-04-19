@@ -14,8 +14,8 @@ $ ./download-gdp-ivi9.sh
 
 For further instructions please consult the official GDP pages on the [GENIVI Public wiki](https://at.projects.genivi.org/wiki/).
 
-License and Copyright
----------------------
+Copyright and Licensing
+-----------------------
 
 Copyright (C) 2016, [Gianpaolo Macario](https://gmacario.github.io).
 

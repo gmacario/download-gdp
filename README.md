@@ -17,8 +17,10 @@ For further instructions please consult the official GDP pages on the [GENIVI Pu
 License and Copyright
 ---------------------
 
-LICENSE: MIT - See `LICENSE` for details
+Copyright (C) 2016, [Gianpaolo Macario](https://gmacario.github.io).
 
-Copyright 2016, [Gianpaolo Macario](https://gmacario.github.io)
+download-gdp is licensed under an Open Source license.
+See [LICENSE](https://github.com/gmacario/wtf-docs/blob/master/LICENSE) for the full
+license text.
 
 <!-- EOF -->

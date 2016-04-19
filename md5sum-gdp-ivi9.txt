@@ -1,0 +1,23 @@
+# See https://at.projects.genivi.org/wiki/x/64Kw
+#
+# Target: QEMU
+# REMOTEDIR=http://docs.projects.genivi.org/gdp_files/v9-release/gdp9-qemu-artifacts/
+658f4af540dbcd22405a0687b03dcd44  gdp-ivi9-qemu.rootfs.ext4.gz
+428e2a9d946febefdc44de3888023dd5  gdp-ivi9-qemu.bzImage
+43213aab97d41f730fa2678c5cc20c6b  gdp-ivi9-qemu.rootfs.manifest
+0262432685b6c3e91ce45b20f49c78cb  license-qemu.manifest
+a1d9302e0289cb159a9de17c7e87810f  licenses-qemu.tar.gz
+704f78f4fd563afe5c784514e4c585d8  oe-source-qemu.tar.gz
+608aefe350194edca7df8d9a9d08c65f  sources-qemu.tar.gz
+#
+# Target board: Renesas Porter
+# REMOTEDIR=http://docs.projects.genivi.org/gdp_files/v9-release/gdp9-porter-artifacts/
+# TODO: gdp-ivi9-porter.manifest
+# ...
+#
+# Target board: RPi2
+# REMOTEDIR=http://docs.projects.genivi.org/gdp_files/v9-release/gdp9-rpi-artifacts/
+# TODO: gdp-ivi9-rpi.sdimg.gz
+# ...
+#
+# EOF

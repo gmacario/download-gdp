@@ -9,7 +9,7 @@ Usage
 From a Bash shell type the following command
 
 ```
-$ ./download-gdp-ivi9-beta.sh
+$ ./download-gdp-ivi9.sh
 ```
 
 For further instructions please consult the official GDP pages on the [GENIVI Public wiki](https://at.projects.genivi.org/wiki/).

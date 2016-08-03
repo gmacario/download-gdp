@@ -7,6 +7,6 @@
 4a1af3502c373c7cabd057ef61a1283b  gdp-11-beta-license.manifest
 8545dab934fd41e44b007fc0ef7cecec  gdp-11-beta-licenses.tar.gz
 0c0b8c0296c6a98a6144ebe9520e9a06  gdp-11-beta-oe-source.tar.gz
-e0f089c9145777694832cd9e5f845b61  gdp-11-beta-sources.tar.gz
+e0f089c9145777694832cd9e5f845b61  gdp-11-beta-sources.tar.qz
 #
 # EOF

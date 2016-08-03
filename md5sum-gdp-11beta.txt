@@ -1,0 +1,12 @@
+# From http://docs.projects.genivi.org/gdp_files/v11/
+# See https://at.projects.genivi.org/wiki/display/GDP/GDP+Download+Page
+#
+388121cf2ccca303d7767ecfc6e1db80  gdp-11-beta.bzImage
+53047c4a42d636e2194a65754808f34f  gdp-11-beta.rootfs.ext4.gz
+22a39b9b6f25b7518264c96f5995ef7a  gdp-11-beta.rootfs.manifest
+4a1af3502c373c7cabd057ef61a1283b  gdp-11-beta-license.manifest
+8545dab934fd41e44b007fc0ef7cecec  gdp-11-beta-licenses.tar.gz
+0c0b8c0296c6a98a6144ebe9520e9a06  gdp-11-beta-oe-source.tar.gz
+e0f089c9145777694832cd9e5f845b61  gdp-11-beta-sources.tar.gz
+#
+# EOF

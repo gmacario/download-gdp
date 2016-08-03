@@ -1,7 +1,7 @@
 download-gdp
 ============
 
-Helper scripts for downloading a release of the [GENIVI Demo Platform](https://at.projects.genivi.org/wiki/x/aoCw).
+Helper scripts for downloading a release of the [GENIVI Development Platform](https://at.projects.genivi.org/wiki/x/aoCw).
 
 Usage
 -----
